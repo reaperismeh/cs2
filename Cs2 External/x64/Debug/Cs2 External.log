@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\Elements.hpp(129,65): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\Elements.hpp(129,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\Elements.hpp(153,65): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\Elements.hpp(153,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\Elements.hpp(162,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Maths\Vector.hpp(90,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Interfaces\LSConfigSystem.hpp(144,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Utilities\Updater.hpp(105,38): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Overlay\ExeConfig.hpp(47,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Aimbot.hpp(87,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Utilities\DrawUtils.hpp(121,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Utilities\DrawUtils.hpp(121,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(29,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(29,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(29,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(29,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(98,86): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(98,67): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Esp.hpp(105,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Cheats\Hacks\Rcs.hpp(11,89): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'Cheats/main.cpp')
+  
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Memory\Memory.hpp(64,1): warning C4715: 'Memory::WriteMemory<unsigned int>': not all control paths return a value
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Memory\Memory.hpp(64,1): warning C4715: 'Memory::WriteMemory<bool>': not all control paths return a value
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Memory\Memory.hpp(64,1): warning C4715: 'Memory::WriteMemory<float>': not all control paths return a value
+C:\Users\latha\Music\Cs2\Cs2 External\Source\Memory\Memory.hpp(64,1): warning C4715: 'Memory::WriteMemory<int>': not all control paths return a value
+  Cs2 External.vcxproj -> C:\Users\latha\Music\Cs2\x64\Debug\Cs2 External.exe
